@@ -55,6 +55,7 @@ This project leverages the following libraries and frameworks:
 ### 1. Data Preprocessing
 **- Encoding data:**
   - Encode object data into numeric format (float64)
+
 **- Missing Value Handling:**
 
   - Drop features with more than 50% missing values.
@@ -76,14 +77,13 @@ This project leverages the following libraries and frameworks:
   - Display statistics for selected features (min, max, mean, etc.).
 ### 3. Model Training
 * **Algorithm**: XGBoost Classifier
-* **Hyperparameters**: The model was tuned offline using Optuna 
+* **Hyperparameters**: The model was tuned offline using Optuna  
 `xgb_params = {
     'max_depth': 3,
     'n_estimators': 229,
     'learning_rate': 0.07102997599091539,
     'subsample': 0.7883429477946611,
     'colsample_bytree': 0.5249446655930966,
-
 }`
 * **Evaluation Metric**: Quadratic Weighted Kappa (QWK)
 ### 4. Feature Importance Analysis
