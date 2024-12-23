@@ -119,9 +119,39 @@ This project is built with the help of open-source libraries and frameworks. Spe
 ---
 
 ## 🚀 How to Run the Project
-Prerequisites
+### Prerequisites
 * Install Python 3.8 or higher.
 * Install Jupyter Notebook.
+
+### Steps
+1. Clone the repository and navigate to the project directory:
+
+   ```bash
+   git clone https://github.com/huytu0702/ML_Team-8
+   cd <project-directory>
+   ```
+
+2. Set up a virtual environment and activate it:
+
+   ```bash
+   python -m venv env
+   source env/bin/activate  # On macOS/Linux
+   env\Scripts\activate    # On Windows
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Launch the Jupyter Notebook:
+
+   ```bash
+   jupyter notebook btl-ml.ipynb
+   ```
+
+5. Run the notebook cells sequentially to process the data and train the model.
 
 ---
 ## 📊 Member Contributions
