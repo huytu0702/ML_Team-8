@@ -97,7 +97,9 @@ This project leverages the following libraries and frameworks:
 ### 1. Correlation
 Displays the relationships between features and the target variable:
 
+
 ### 2. Feature Importance
+![1](https://github.com/user-attachments/assets/e96f1dca-3fe7-45f8-bb29-18ad45cfba36)
 
 ---
 ## 📌 Project Highlights
