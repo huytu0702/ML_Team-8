@@ -110,10 +110,21 @@ This project leverages the following libraries and frameworks:
 ![5](https://github.com/user-attachments/assets/3e1e4bfd-a92f-47b0-854c-6a9ce6f70576)
 ![6](https://github.com/user-attachments/assets/6538e715-6258-4e3c-9cd9-b052be1dde6a)
 
-### 4. Selected Features
+### 4. Correlations
+![10](https://github.com/user-attachments/assets/d9ee2808-86f1-4f89-baec-9949cd7c2701)
+![11](https://github.com/user-attachments/assets/8aa08b61-492e-4491-a245-539b1ddc22bb)
+![12](https://github.com/user-attachments/assets/9bec4ad0-9df8-436a-8aaf-15f9dcc39c5a)
+
+### 5. Missing values
+![13](https://github.com/user-attachments/assets/86acad96-41e4-4da6-95c9-877a43bfc6c0)
+![14](https://github.com/user-attachments/assets/34ffa53b-85d0-4eee-911c-f991e19d2ccf)
+
+
+### 6. Selected Features
+![9](https://github.com/user-attachments/assets/12edc8b1-9b6c-4ea4-9c64-4029118e8771)
 ![7](https://github.com/user-attachments/assets/d9b17b77-9595-4631-8d6d-c6feab44ae44)
 
-### 5. Features Importances
+### 7. Features Importances
 ![8](https://github.com/user-attachments/assets/33a2ddd9-f54b-4547-8ed4-075f4dd263d0)
 
 ---
