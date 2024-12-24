@@ -126,6 +126,8 @@ This project leverages the following libraries and frameworks:
 
 ### 7. Features Importances
 ![8](https://github.com/user-attachments/assets/33a2ddd9-f54b-4547-8ed4-075f4dd263d0)
+![15](https://github.com/user-attachments/assets/35efe428-c587-498f-b8b6-101b43df0c61)
+
 
 ---
 ## 📌 Project Highlights
