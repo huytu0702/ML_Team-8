@@ -98,12 +98,23 @@ This project leverages the following libraries and frameworks:
 --- 
 
 ## 🎨 Visual Outputs
-### 1. Correlation
-Displays the relationships between features and the target variable:
+### 1. Correlation with PCIAT Total Score
 ![1](https://github.com/user-attachments/assets/e96f1dca-3fe7-45f8-bb29-18ad45cfba36)
 
-### 2. Feature Importance
+### 2. Distribution of "sii" Across PCIAT Score Ranges
+![2](https://github.com/user-attachments/assets/013598f4-cff2-4594-ac1d-2bce34fdc229)
 
+### 3. PIU
+![3](https://github.com/user-attachments/assets/3fbb176f-f063-4f72-8209-32f26cf6ab4e)
+![4](https://github.com/user-attachments/assets/d40c214f-8472-470b-9220-5f7bfce66400)
+![5](https://github.com/user-attachments/assets/3e1e4bfd-a92f-47b0-854c-6a9ce6f70576)
+![6](https://github.com/user-attachments/assets/6538e715-6258-4e3c-9cd9-b052be1dde6a)
+
+### 4. Selected Features
+![7](https://github.com/user-attachments/assets/d9b17b77-9595-4631-8d6d-c6feab44ae44)
+
+### 5. Features Importances
+![8](https://github.com/user-attachments/assets/33a2ddd9-f54b-4547-8ed4-075f4dd263d0)
 
 ---
 ## 📌 Project Highlights
