@@ -59,7 +59,6 @@ This project leverages the following libraries and frameworks:
 **- Missing Value Handling:**
 
   - Drop features with more than 50% missing values.
-  - Fill missing values in important features with median or mode.
     
 **- Feature Selection:**
 
